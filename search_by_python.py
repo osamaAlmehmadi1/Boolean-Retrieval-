@@ -45,7 +45,7 @@ def boolean_query(query,inverted_index,documents):
 
 documents=[]
 
-folder_path = r'C:\Users\osama\OneDrive\سطح المكتب\المواد\استرجاع المعلومات\Boolean_Retrieval\Boolean_Retrieval\Documents'
+folder_path = r'/Documents'#Foldr Path#
 
 
 
