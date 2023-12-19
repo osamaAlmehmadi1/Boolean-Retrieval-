@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search Page</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
+  </head>
+
+  <body>
+    <div class="search-container">
+      <form action="{{ url_for('result_page') }}" method="POST">
+        <div class="search-box">
+        
+          <p> Enter Boolean query: </p>
+          <input  type="text" id="query"  name="query" class="search-input" 
+          placeholder="Searching >> use(AND NOT OR)"
+          /><br /><br />
+          <input type="submit" class="search-btn" value="Submit" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>

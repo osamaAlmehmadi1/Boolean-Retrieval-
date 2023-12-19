@@ -1,0 +1,2 @@
+Python: Powerful language for web development, information retrieval, and data analysis. Use libraries like NLTK for text processing and BeautifulSoup for web scraping.
+

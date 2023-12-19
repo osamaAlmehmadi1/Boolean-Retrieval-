@@ -1,0 +1,9 @@
+Web Search; Enabling individuals to discover information across the vast expanse of the internet.
+Digital. Archives; Streamlining access to research papers, historical records and other digital resources for efficient utilization.
+Medical. Treatment; Aiding healthcare professionals in locating pertinent medical data to enhance patient care.
+Social. News Aggregation;. Prioritizing significant content for users on social media platforms and news aggregators.
+Natural Language Processing (NLP); Serving as the foundation for NLP tasks such as machine translation and text summarization.
+Alignment with Academic & Career Goals;
+Computer Science; Deepening their comprehension of search algorithms, data structures and methods of retrieving information.
+Information Science & Library Science; Acquiring expertise in constructing and managing information systems.
+Linguistics & Natural Language Processing; Exploring the convergence of language and information retrieval, for search and knowledge exploration.

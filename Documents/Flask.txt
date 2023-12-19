@@ -1,0 +1,1 @@
+Flask: Microframework for building web applications in Python. Integrate with Elasticsearch or other search engines for efficient information retrieval. Filter and format retrieved data in Flask views using Jinja.

@@ -1,0 +1,1 @@
+Jinja: Templating engine for Flask, allowing dynamic generation of HTML pages. Use Jinja conditionals to display information based on boolean retrieval results.
